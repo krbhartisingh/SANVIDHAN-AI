@@ -1,0 +1,7 @@
+{
+  "name": "Sanvidhan AI",
+  "description": "Your Constitutional Companion - A premium, multilingual AI assistant strictly grounded in the Constitution of India.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
